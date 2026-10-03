@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of deltamichael/flarum-ext-online.** Not for installation: use [Packagist](https://packagist.org/packages/deltamichael/flarum-ext-online) or the [upstream repository](https://github.com/DeltaMichael/flarum-ext-online).
 
-**0** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/deltamichael-flarum-ext-online/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/deltamichael-flarum-ext-online/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2025-11-12 | `^1.0.0` | [Browse](https://github.com/flarchive/deltamichael-flarum-ext-online/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/deltamichael-flarum-ext-online.json](https://github.com/flarchive/archive-index/blob/main/packages/deltamichael-flarum-ext-online.json)
 
